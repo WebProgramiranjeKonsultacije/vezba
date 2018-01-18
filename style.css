@@ -1,0 +1,15 @@
+/* CSS Document */
+
+h1{
+	/* Color of the font */
+	color:#900;
+	font-weight:bold;
+}
+
+@media all and (max-width:1024px){
+	h1{
+		/* Color of the font */
+		color:#900;
+		font-weight:bold;
+	}
+}
